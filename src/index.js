@@ -2,8 +2,6 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import '../style/style.css';
 
-
-
 const routes = JSON.parse(localStorage.getItem('routes')) || [];
 
 
